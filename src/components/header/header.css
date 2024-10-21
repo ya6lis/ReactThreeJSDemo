@@ -1,0 +1,25 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    height: 6rem;
+}
+
+/* .header__logo {
+    width: 100%;
+    max-width: 200px;
+}
+
+.header__logo img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+} */
+
+.header__link {
+    padding: 0 3rem;
+    color: #0b0483;
+    text-decoration: none;
+}
+

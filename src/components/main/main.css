@@ -1,0 +1,18 @@
+.main {
+    background-color: #eff1f5;
+}
+
+.main__section {
+    display: flex;
+    align-items: center;
+    height: 800px;
+}
+
+.model {
+    display: flex;
+    position: fixed;
+    justify-content: center;
+    justify-items: center;
+    width: 100%;
+    pointer-events: none;
+}

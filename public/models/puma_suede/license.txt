@@ -1,0 +1,11 @@
+Model Information:
+* title:	Puma Suede
+* source:	https://sketchfab.com/3d-models/puma-suede-5b098581cb7040d8ba30955ddf2e04c8
+* author:	Toni.Escribano.Llorente (https://sketchfab.com/Toni.Escribano.Llorente)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Puma Suede" (https://sketchfab.com/3d-models/puma-suede-5b098581cb7040d8ba30955ddf2e04c8) by Toni.Escribano.Llorente (https://sketchfab.com/Toni.Escribano.Llorente) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
